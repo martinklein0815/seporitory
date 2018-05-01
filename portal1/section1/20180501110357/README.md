@@ -1,0 +1,3 @@
+- datetime when profiling was done
+- potentially more info here re client implementation used for profiling
+- json output should be the same, regardless of profiling tool used
