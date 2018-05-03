@@ -1,2 +1,0 @@
-- identified by domain name + specific URI pattern leading to the section
-- URI patterns expresses in regex, for example
