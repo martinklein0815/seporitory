@@ -4,7 +4,7 @@
 			"action_order": "1",
 			"value": "div.j-next-btn.arrow-right",
 			"type": "CSSSelector",
-			"action": "repeat_click_until",
+			"action": "repeated_click",
 			"repeat_until": {
 				"condition": "changes",
 				"type": "resource_url"
@@ -14,7 +14,7 @@
 			"action_order": "2",
 			"value": "div.notranslate.transcript.add-padding-right.j-transcript a",
 			"type": "CSSSelector",
-			"action": "click_again"
+			"action": "click"
 		}
 	],
 	"resource_url": "https://www.slideshare.net/hvdsomp/paul-evan-peters-lecture",
